@@ -11,3 +11,12 @@ Requirement analysis is critical for several reasons:
 -   **Reduces Project Failure:** A strong understanding of requirements minimizes misunderstandings between stakeholders and the development team, leading to a higher chance of delivering a successful product.
 -   **Improves Communication:** It serves as a common language for all parties involved, ensuring everyone is aligned on what needs to be built.
 -   Added section: Why is Requirement Analysis Important?".
+---
+## Key Activities in Requirement Analysis
+
+-   **Requirement Gathering:** Collecting and capturing all the needs and expectations from stakeholders.
+-   **Requirement Elicitation:** Drawing out and understanding the requirements from stakeholders through interviews, surveys, and workshops.
+-   **Requirement Documentation:** Writing down the collected requirements in a clear, structured, and unambiguous manner.
+-   **Requirement Analysis and Modeling:** Examining the requirements for consistency and feasibility, and creating visual models (like diagrams) to represent them.
+-   **Requirement Validation:** Reviewing the documented requirements with stakeholders to ensure they accurately reflect their needs.
+"Added section: Key Activities in Requirement Analysis".

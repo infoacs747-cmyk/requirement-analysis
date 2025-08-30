@@ -20,3 +20,22 @@ Requirement analysis is critical for several reasons:
 -   **Requirement Analysis and Modeling:** Examining the requirements for consistency and feasibility, and creating visual models (like diagrams) to represent them.
 -   **Requirement Validation:** Reviewing the documented requirements with stakeholders to ensure they accurately reflect their needs.
 "Added section: Key Activities in Requirement Analysis".
+---
+## Types of Requirements
+
+### Functional Requirements
+
+Functional requirements describe the specific behaviors or functions of a system. They define what the system must do.
+-   **Examples for a Booking System:**
+    -   The system must allow a user to search for available properties.
+    -   The system must allow a user to book a property by selecting a date range.
+    -   The system must process payments securely for a booking.
+
+### Non-functional Requirements
+
+Non-functional requirements describe how the system should behave. They define qualities or attributes of the system, such as performance, security, and usability.
+-   **Examples for a Booking System:**
+    -   The website must load within 3 seconds on a standard internet connection.
+    -   User data must be encrypted to ensure privacy and security.
+    -   The system must be able to handle 1,000 concurrent users without performance degradation.
+    -   "Added section: Types of Requirements".

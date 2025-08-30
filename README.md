@@ -43,3 +43,10 @@ Non-functional requirements describe how the system should behave. They define q
 
 This project focuses on requirement analysis for a simple booking system, following industry best practices.  
 The goal is to document system requirements, define actors, and create use case diagrams to better understand how the system should function.
+---
+## Use Case Diagrams
+
+Use Case Diagrams are visual models that describe the functionality of a system from an external point of view. They show the different roles (actors) and what they can do with the system (use cases). They are useful for understanding the system's requirements and scope.
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+"Added section: Use Case Diagrams and uploaded diagram".
